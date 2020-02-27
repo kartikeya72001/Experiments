@@ -1,0 +1,21 @@
+.triangle{
+    width: 400px;
+    height: 400px;
+    border: 100px solid transparent;
+    border-left-color: red;
+    border-right-color: green;
+    border-bottom-color: blue;
+    border-top-color: yellow;
+    box-shadow: 4px 4px 4px 4px grey;
+    border-radius: 10px;
+}
+.pyramid{
+    width: 0px;
+    border: 100px solid transparent;
+    border-left-color: red;
+    border-right-color: green;
+    border-bottom-color: blue;
+    border-top-color: yellow;
+    box-shadow: 4px 4px 4px 4px grey;
+    border-radius: 10px;
+}
